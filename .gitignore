@@ -1,0 +1,19 @@
+# Dependencies
+/node_modules
+/client/node_modules
+/functions/node_modules
+
+# Build folder
+/client/build
+
+# Environment variables
+/functions/.env
+*.env.local
+
+# Firebase
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+
+# macOS
+.DS_Store
