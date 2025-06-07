@@ -16,12 +16,15 @@ A comprehensive, full-stack e-commerce web application built from the ground up 
 -->
 
 ### Main Homepage
-![alt text](<Screenshot 2025-06-07 at 12.47.06 PM.png>)
+<img width="1440" alt="Screenshot 2025-06-07 at 12 47 06 PM" src="https://github.com/user-attachments/assets/93048d03-dd2c-4561-b791-dbd35b73eb14" />
+
 ![ShopLuxe Homepage](./screenshots/homepage.png)
 
 ### Cart & Checkout Flow
-![alt text](<Screenshot 2025-06-07 at 12.47.32 PM.png>)
-![alt text](<Screenshot 2025-06-07 at 12.47.53 PM.png>)
+<img width="1440" alt="Screenshot 2025-06-07 at 12 47 32 PM" src="https://github.com/user-attachments/assets/87e72633-d34d-4c4c-aec6-d0a14ead1781" />
+
+<img width="1440" alt="Screenshot 2025-06-07 at 12 47 53 PM" src="https://github.com/user-attachments/assets/0892f9d6-ab71-4467-9dc6-4677ef8bc53f" />
+
 ![ShopLuxe Cart & Checkout](./screenshots/checkout.png)
 
 ## Key Features
